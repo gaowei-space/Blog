@@ -1,12 +1,16 @@
-<h1 align="center"> meituan-pub-union </h1>
+# 🌈 Meituan-Pub-Union
 
-<p align="center"> 🌈 美团分销联盟 PHP-SDK. </p>
+
 
 [![PHP Version](https://img.shields.io/badge/php-%3E=7.2.5-8892BF.svg)](https://www.php.net/)
 [![GitHub branch checks state](https://img.shields.io/github/checks-status/gaowei-space/meituan-pub-union/main)](https://github.com/gaowei-space/meituan-pub-union/tree/main)
 [![Packagist Version](https://img.shields.io/packagist/v/gaowei-space/meituan-pub-union?color=orange)](https://packagist.org/packages/gaowei-space/meituan-pub-union)
 [![Latest Release](https://img.shields.io/github/v/release/gaowei-space/meituan-pub-union)](https://github.com/gaowei-space/meituan-pub-union/releases)
 [![License](https://img.shields.io/github/license/gaowei-space/meituan-pub-union)](https://github.com/gaowei-space/meituan-pub-union/LICENSE)
+
+
+
+[Meituan-Pub-Union](https://github.com/gaowei-space/meituan-pub-union) 是美团分销联盟API的PHP-SDK
 
 ## 安装
 
