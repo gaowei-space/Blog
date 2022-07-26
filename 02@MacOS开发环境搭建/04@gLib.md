@@ -19,7 +19,7 @@
 
 
 
-[GLib](https://github.com/profclems/glab) 是 gitlab 终端操作软件，支持包括但不限于使用命令提交合并请求等，大大节省了`gitlib`网站操作的步骤，极大的提升了合并代码等操作的效率
+[GLib](https://github.com/profclems/glab) 是 **GitLab** 终端操作软件，支持包括但不限于使用命令提交合并请求等，大大节省了 **GitLab** 网站操作的步骤，极大的提升了合并代码等操作的效率
 
 
 
