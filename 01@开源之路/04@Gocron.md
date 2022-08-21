@@ -8,7 +8,7 @@
 
 ## 项目简介
 
-> 该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron)，依据自己喜好和实际需求进行了功能迭代，发布了**v1.6**版本。
+> 该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron)，依据自己喜好和实际需求进行了功能迭代，发布了 **1.6** 版本
 
 **[Gocron-定时任务管理系统](https://github.com/gaowei-space/gocron)**，使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代**Linux-crontab**
 
