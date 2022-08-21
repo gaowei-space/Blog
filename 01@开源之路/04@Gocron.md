@@ -1,4 +1,5 @@
 # Gocron
+
 [![Downloads](https://img.shields.io/github/downloads/ouqiang/gocron/total.svg)](https://github.com/gaowei-space/gocron/releases)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/ouqiang/gocron/blob/master/LICENSE)
 [![Release](https://img.shields.io/github/release/gaowei-space/gocron.svg?label=Release)](https://github.com/gaowei-space/gocron/releases)
@@ -7,7 +8,7 @@
 
 ## 项目简介
 
-> 该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron)，根据实际需求，对于原作进行了迭代，发布了v1.6版本。
+> 该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron)，依据自己喜好和实际需求进行了功能迭代，发布了**v1.6**版本。
 
 **[Gocron-定时任务管理系统](https://github.com/gaowei-space/gocron)**，使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代**Linux-crontab**
 
@@ -24,7 +25,6 @@
 
 
 ## 截图
-
 
 
 ![列表](https://user-images.githubusercontent.com/10205742/184531121-f5faa1a9-4d13-4132-a96d-848375765cda.jpg)
@@ -63,11 +63,11 @@
 
   - shell任务
 
-  > 在任务节点上执行shell命令, 支持任务同时在多个节点上运行
+    > 在任务节点上执行shell命令, 支持任务同时在多个节点上运行
 
   - HTTP任务
 
-  > 访问指定的URL地址, 由调度器直接执行, 不依赖任务节点
+    > 访问指定的URL地址, 由调度器直接执行, 不依赖任务节点
 
 - 查看任务执行结果日志
 
@@ -75,5 +75,4 @@
 
 #### 了解更多
 
-- 新版 [https://github.com/gaowei-space/gocron](https://github.com/gaowei-space/gocron)
 - 原作 [https://github.com/ouqiang/gocron](https://github.com/ouqiang/gocron)
