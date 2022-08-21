@@ -7,11 +7,9 @@
 
 ## 项目简介
 
-**Gocron**-定时任务管理系统，使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代**Linux-crontab**。
+> 该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron)，根据实际需求，对于原作进行了迭代，发布了v1.6版本。
 
-该项目fork于[ouqiang/gocron](https://github.com/ouqiang/gocron),根据实际需求，对于原作进行了迭代，发布了v1.6版本。
-
-
+**[Gocron-定时任务管理系统](https://github.com/gaowei-space/gocron)**，使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代**Linux-crontab**
 
 ## 迭代
 
@@ -43,3 +41,39 @@
 
 ![webhook](https://user-images.githubusercontent.com/10205742/184531159-582fd407-bed1-4ed4-a469-e8b9d5af67cb.jpg)
 
+
+
+
+
+## 功能特性
+
+- Web界面管理定时任务
+
+- crontab时间表达式, 精确到秒
+
+- 任务执行失败可重试
+
+- 任务执行超时, 强制结束
+
+- 任务依赖配置, A任务完成后再执行B任务
+
+- 账户权限控制
+
+- 任务类型
+
+  - shell任务
+
+  > 在任务节点上执行shell命令, 支持任务同时在多个节点上运行
+
+  - HTTP任务
+
+  > 访问指定的URL地址, 由调度器直接执行, 不依赖任务节点
+
+- 查看任务执行结果日志
+
+- 任务执行结果通知, 支持邮件、Slack、Webhook
+
+#### 了解更多
+
+- 新版 [https://github.com/gaowei-space/gocron](https://github.com/gaowei-space/gocron)
+- 原作 [https://github.com/ouqiang/gocron](https://github.com/ouqiang/gocron)
