@@ -75,5 +75,6 @@
 
 #### 了解更多
 
-- 原作 [https://github.com/ouqiang/gocron](https://github.com/ouqiang/gocron)
-- 本作 [https://github.com/gaowei-space/gocron](https://github.com/gaowei-space/gocron)
+- 原作 [https://github.com/ouqiang/gocron](https://github.com/ouqiang/gocron){target="_blank"}
+- 本作 [https://github.com/gaowei-space/gocron](https://github.com/gaowei-space/gocron){:target="_blank"}
+
