@@ -141,24 +141,22 @@ server {
 ## 开发
 1. 安装 `Golang` 开发环境
 2. Fork [源码](https://github.com/gaowei-space/gocron)
-3. 启动 web服务
-    > 运行之后访问地址 http://localhost:5006，API请求会转发给 markdown-blog
-    ```
+3. 启动 web服务，运行之后访问地址 http://localhost:5006，API请求会转发给 markdown-blog
+    ```shell
     make run
     ```
 4. 编译
-    ```
+    ```shell
     make
     ```
-5. 打包
-    > 在 markdown-blog-package 生成当前系统的压缩包 markdown-blog-v0.0.5-darwin-amd64.tar
-    ```
+5. 打包，在 **package** 目录生成当前系统的压缩包 markdown-blog-v0.0.5-darwin-amd64.tar
+    ```shell
     make package
     ```
-6. 生成 Windows、Linux、Mac 的压缩包
-    > 在 markdown-blog-package 生成压缩包 markdown-blog-v0.0.5-darwin-amd64.tar markdown-blog-v0.0.5-linux-amd64.tar.gz markdown-blog-v0.0.5-windows-amd64.zip
-    ```
+6. 生成 Windows、Linux、Mac 的压缩包 至 **package** 文件夹
+    ```shell
     make package-all
     ```
+
 ## 授权许可
 本项目采用 MIT 开源授权许可证，完整的授权说明已放置在 [LICENSE](https://github.com/gaowei-space/markdown-blog/blob/main/LICENSE) 文件中。
