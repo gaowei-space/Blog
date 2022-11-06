@@ -34,23 +34,23 @@
 1. 下载 [release](https://github.com/gaowei-space/markdown-blog/releases/)
 
 2. 解压
-    ```shell
-    tar zxf markdown-blog-v0.0.5-linux-amd64.tar.gz
-    ```
+```shell
+tar zxf markdown-blog-v0.0.5-linux-amd64.tar.gz
+```
 
 3. 创建 markdown 文件目录
-    ```shell
-    cd markdown-blog-linux-amd64
-    mkdir md
-    echo "### Hello World" > ./md/主页.md
-    ```
+```shell
+cd markdown-blog-linux-amd64
+mkdir md
+echo "### Hello World" > ./md/主页.md
+```
 
 4. 运行
-    ```shell
-    ./markdown-blog web
-    ```
+```shell
+./markdown-blog web
+```
 
-5. 访问 http://127.0.0.1:5006，查看效果
+5. 访问 http://127.0.0.1:5006 查看效果
 
 
 
