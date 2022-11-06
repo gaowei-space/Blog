@@ -11,10 +11,10 @@
 > [TechMan'Blog](https://blog.gaowei.tech)
 
 - PC端
-<img alt="PC端" src="https://user-images.githubusercontent.com/10205742/176992945-6016193f-e27e-4b19-bf5d-27ff4dfe1fdc.png">
+<img alt="PC端" src="https://user-images.githubusercontent.com/10205742/176992945-6016193f-e27e-4b19-bf5d-27ff4dfe1fdc.png" style="zoom: 25%;" >
 
 - 移动端
-<img alt="移动端" src="https://user-images.githubusercontent.com/10205742/180644851-e3760085-9668-4675-9bab-65c361dd5195.jpeg">
+<img alt="移动端" src="https://user-images.githubusercontent.com/10205742/180644851-e3760085-9668-4675-9bab-65c361dd5195.jpeg" style="zoom:33%;" >
 
 
 
@@ -27,7 +27,10 @@
   - 新增明亮🔆主题，支持明暗切换
   - 其他已知问题修复
 
+
+
 ## 安装
+
 1. 下载 [release](https://github.com/gaowei-space/markdown-blog/releases/)
 
 2. 解压
@@ -49,7 +52,10 @@
 
 5. 访问 http://127.0.0.1:5006，查看效果
 
+
+
 ## 使用
+
 ### 命令
 - markdown-blog
     - -h 查看版本
